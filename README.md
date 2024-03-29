@@ -56,11 +56,12 @@ The analysis was conducted using excel and powerbi.
 - After conducting the analysis, we extracted critical insights that proved to be pivotal in our understanding.
 - The report and the outputs were presented to the participating entities using the following ppt.
 - Later the organisation was sugguested with few recommedations and solutions to adapt in order to improve employee retention.
+  
 ![5](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/ddf1ca1c-9fab-4112-9c09-3eb225e7db91)
-.
+
 ![6](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/a80c3c43-4f6a-4c63-97d4-0c832210f40b)
-.
-![8](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/e160ef01-7c88-46c8-a6ed-491724965933
+
+![8](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/e160ef01-7c88-46c8-a6ed-491724965933)
 
 ## Recommendations
 
