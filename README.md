@@ -44,6 +44,8 @@ The analysis was conducted using excel and powerbi.
 
 ## Power BI Report
 
+Link to live report - https://www.novypro.com/project/employee-retention-project-internship-project-power-bi
+
 **Demographics:**
 
 ![hr 1](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/932cc9c4-ef3a-45e6-8165-4ecd7d7e99b7)
