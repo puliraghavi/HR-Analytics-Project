@@ -30,6 +30,9 @@ The analysis was conducted using excel and powerbi.
 **Data sets and Data cleaning:** 
 - The organisation has provided two datasets HR_1 containing personal or demographics details of the employees and HR_2 contains their performance metrics. The datsets were cleaned and transformed accordingly using power query.
 
+![image](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/e0ffd66b-f43b-4e73-9b7d-89fb32b9f582)
+
+
 **Data Analysis**
 - After cleaning, the datasets were loaded into powerbi to conduct statistical analysis and to create a interactive report.
 - The report into two two categories – The demographics of the employees and their performance.
@@ -40,8 +43,21 @@ The analysis was conducted using excel and powerbi.
 ## Power BI Report
 
 **Demographics:**
+
 ![hr 1](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/932cc9c4-ef3a-45e6-8165-4ecd7d7e99b7)
 
 **Performance:**
+
 ![hr 2](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/35dc0f98-f214-442b-8126-ece02ae89579)
+
+## Insights Obtained
+
+![5](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/ddf1ca1c-9fab-4112-9c09-3eb225e7db91)
+.
+![6](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/a80c3c43-4f6a-4c63-97d4-0c832210f40b)
+.
+![8](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/e160ef01-7c88-46c8-a6ed-491724965933)
+
+
+
 
