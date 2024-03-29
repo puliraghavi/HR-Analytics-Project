@@ -8,6 +8,7 @@
 - [Analysis](analysis)
 - [Power BI Report](#power-bi-report)
 - [Insights Obtained](#insights-obtained)
+- [Recommedations](#recommedations)
 
 
 ## Problem Statement
@@ -16,6 +17,7 @@ In today's dynamic business landscape, organizations are increasingly recognizin
 The primary aim of this project is to delve into the data and scrutinize historical data and current trends,to study underlying factors influencing attrition rates and decipher patterns that may impact employee retentionand provide the orgination with actionable recommendations tailored to enhancing retention strategies and fostering smarter talent management decisions.
 
 ## Analysis
+This project was executed by me as part of my internship experience with Ai Variant.
 The analysis was conducted using excel and powerbi. 
 
 **Objectives :**
@@ -51,12 +53,19 @@ The analysis was conducted using excel and powerbi.
 ![hr 2](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/35dc0f98-f214-442b-8126-ece02ae89579)
 
 ## Insights Obtained
-
+- After conducting the analysis, we extracted critical insights that proved to be pivotal in our understanding.
+- The report and the outputs were presented to the participating entities using the following ppt.
+- Later the organisation was sugguested with few recommedations and solutions to adapt in order to improve employee retention.
 ![5](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/ddf1ca1c-9fab-4112-9c09-3eb225e7db91)
 .
 ![6](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/a80c3c43-4f6a-4c63-97d4-0c832210f40b)
 .
-![8](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/e160ef01-7c88-46c8-a6ed-491724965933)
+![8](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/e160ef01-7c88-46c8-a6ed-491724965933
+
+## Recommendations
+
+![9](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/ad523055-99bd-4003-9523-f8569ea8599d)
+
 
 
 
