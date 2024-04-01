@@ -5,7 +5,7 @@
 
 ## 📚Contents
 - [Problem Statement](#problem-statement)
-- [Analysis](analysis)
+- [Analysis](#analysis)
 - [Power BI Report](#power-bi-report)
 - [Insights Obtained](#insights-obtained)
 - [Recommedations](#recommedations)
