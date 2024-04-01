@@ -11,12 +11,12 @@
 - [Recommedations](#recommedations)
 
 
-## Problem Statement
+# Problem Statement
 In today's dynamic business landscape, organizations are increasingly recognizing the critical importance of leveraging data-driven insights to optimize their human resources strategies. The human resources (HR) department serves as the backbone of an organization, managing the most valuable asset: its workforce. Employing data analytics practices in this sector can help us gain deep insights into various aspects of employee retention, performance, and demographic trends within the organization.
 
 The primary aim of this project is to delve into the data and scrutinize historical data and current trends,to study underlying factors influencing attrition rates and decipher patterns that may impact employee retentionand provide the orgination with actionable recommendations tailored to enhancing retention strategies and fostering smarter talent management decisions.
 
-## Analysis
+# Analysis
 This project was executed by me as part of my internship experience with Ai Variant.
 The analysis was conducted using excel and powerbi. 
 
@@ -42,7 +42,7 @@ The analysis was conducted using excel and powerbi.
 
 ***
 
-## Power BI Report
+# Power BI Report
 
 Link to live report - https://www.novypro.com/project/employee-retention-project-internship-project-power-bi
 
@@ -54,7 +54,7 @@ Link to live report - https://www.novypro.com/project/employee-retention-project
 
 ![hr 2](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/35dc0f98-f214-442b-8126-ece02ae89579)
 
-## Insights Obtained
+# Insights Obtained
 - After conducting the analysis, we extracted critical insights that proved to be pivotal in our understanding.
 - The report and the outputs were presented to the participating entities using the following ppt.
 - Later the organisation was sugguested with few recommedations and solutions to adapt in order to improve employee retention.
@@ -65,7 +65,7 @@ Link to live report - https://www.novypro.com/project/employee-retention-project
 
 ![8](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/e160ef01-7c88-46c8-a6ed-491724965933)
 
-## Recommendations
+# Recommendations
 
 ![9](https://github.com/puliraghavi/HR-Analytics-Project/assets/119037510/ad523055-99bd-4003-9523-f8569ea8599d)
 
